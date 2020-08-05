@@ -16,4 +16,4 @@ const createFareMultiplier = function(numOfTickets) {
   }
 }
 
-const fareDoubler = createFareMultiplier()
+const fareDoubler = createFareMultiplier(2)
