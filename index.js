@@ -15,3 +15,5 @@ const createFareMultiplier = function(numOfTickets) {
     return numOfTickets * fare
   }
 }
+
+const 
