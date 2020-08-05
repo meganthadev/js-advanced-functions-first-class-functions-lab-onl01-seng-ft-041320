@@ -1,1 +1,1 @@
-const 
+const firstTwo = function()
