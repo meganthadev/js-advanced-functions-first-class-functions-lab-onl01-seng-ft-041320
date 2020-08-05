@@ -1,4 +1,4 @@
 const returnFirstTwoDrivers = function(drivers) {
-  let newDrivers = 
+  let newDrivers = drivers.slice(0, 2)
   return 
 }
