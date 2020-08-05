@@ -12,6 +12,6 @@ const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers]
 
 const createFareMultiplier = function(numOfTickets) {
   return function(fare) {
-    
+    return numOfTickets
   }
 }
