@@ -23,7 +23,7 @@ function selectDifferentDrivers(drivers, selection) {
   if (selection === returnFirstTwoDrivers) {
     return returnFirstTwoDrivers(drivers)
   } elsif (selection === returnLastTwoDrivers) {
-    return returnLastTwoDrivers
+    return returnLastTwoDrivers(drivers)
   }
  }
 
