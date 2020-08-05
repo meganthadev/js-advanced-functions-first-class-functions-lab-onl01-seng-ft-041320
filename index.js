@@ -3,4 +3,6 @@ const returnFirstTwoDrivers = function(drivers) {
   return newDrivers
 }
 
-const returnLastTwoDrivers = function(drivers)
+const returnLastTwoDrivers = function(drivers) {
+  let newDrivers = drivers.splice
+}
